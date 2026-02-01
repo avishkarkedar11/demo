@@ -1,4 +1,4 @@
 # demo
 This is my demo repository. 
 <br>
-Author - Avishkar Kedar 
+Author - Avishkar Eknath Kedar 
